@@ -1,4 +1,4 @@
-<h1 align="center">Hey hey, I'm EJ CHamorro</h1>
+<h1 align="center">Hey hey, I'm EJ Chamorro</h1>
 <h3 align="center">A full-stack developer</h3>
 
 - 🔭 I’m currently working on [mtg-curve-calculator](https://github.com/ejchamo/mtg-curve-calculator)
